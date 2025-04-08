@@ -50,3 +50,8 @@ Najlepsze wyniki osiągnął **model hybrydowy** – `VotingClassifier` złożon
 - NumPy
 - Matplotlib / Seaborn (do EDA)
 - Jupyter Notebook
+
+## 📌 Uwagi
+
+- Zbiór danych użyty w projekcie pochodzi z Kaggle:  
+  👉 [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
